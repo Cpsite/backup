@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competitive Programming on CP site Official</title>
+    <link>https://cpsite.github.io/categories/competitive-programming/</link>
+    <description>Recent content in Competitive Programming on CP site Official</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 13:57:48 +0600</lastBuildDate>
+    
+	<atom:link href="https://cpsite.github.io/categories/competitive-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Youtube and Livestreams</title>
+      <link>https://cpsite.github.io/posts/competitiveprogramming/</link>
+      <pubDate>Mon, 01 Jun 2020 13:57:48 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/posts/competitiveprogramming/</guid>
+      <description> Recent Contest Probelm solvers:    Handle Resource     RomeoFantastik Youtube   stefdasca Youtube   aaronhe07 Youtube   dvkcool Youtube    Tutorials:    Handle Resource     Errichto Youtube , Github   tmwilliamlin168 Youtube , Github   kazama460 Youtube    Livestreams:    Handle Resource     Golovanov399 Youtube   Endagorion Youtube   Um_nik Youtube   subscriber Youtube      </description>
+    </item>
+    
+  </channel>
+</rss>

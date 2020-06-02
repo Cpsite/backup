@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CP site Official</title>
+    <link>https://cpsite.github.io/tags/</link>
+    <description>Recent content in Tags on CP site Official</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 13:57:48 +0600</lastBuildDate>
+    
+	<atom:link href="https://cpsite.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cp</title>
+      <link>https://cpsite.github.io/tags/cp/</link>
+      <pubDate>Mon, 01 Jun 2020 13:57:48 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yt</title>
+      <link>https://cpsite.github.io/tags/yt/</link>
+      <pubDate>Mon, 01 Jun 2020 13:57:48 +0600</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/yt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>感悟</title>
+      <link>https://cpsite.github.io/tags/%E6%84%9F%E6%82%9F/</link>
+      <pubDate>Thu, 07 May 2020 21:41:50 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/%E6%84%9F%E6%82%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>技术</title>
+      <link>https://cpsite.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Thu, 07 May 2020 21:41:50 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>年度</title>
+      <link>https://cpsite.github.io/tags/%E5%B9%B4%E5%BA%A6/</link>
+      <pubDate>Mon, 30 Dec 2019 21:24:06 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/%E5%B9%B4%E5%BA%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>https://cpsite.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 30 Dec 2019 21:24:06 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>豆瓣FM</title>
+      <link>https://cpsite.github.io/tags/%E8%B1%86%E7%93%A3fm/</link>
+      <pubDate>Sat, 21 Dec 2019 22:00:53 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/%E8%B1%86%E7%93%A3fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>赞赏</title>
+      <link>https://cpsite.github.io/tags/%E8%B5%9E%E8%B5%8F/</link>
+      <pubDate>Mon, 03 Jun 2019 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/%E8%B5%9E%E8%B5%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby-lang</title>
+      <link>https://cpsite.github.io/tags/ruby-lang/</link>
+      <pubDate>Tue, 09 Jan 2018 14:00:11 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/ruby-lang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
