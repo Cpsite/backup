@@ -22,6 +22,7 @@ tags:
 >4. [**cfladders**](http://cfladders.rf.gd/index.html?i=1) >>>>>>>>>>:man_technologist:	[srijan_de](https://codeforces.com/profile/srijan_de)
 >5. [**Competitive Companion**](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl)(Chrome Extension) >>>>>>>>>>:man_technologist: [Jasperr](https://codeforces.com/profile/Jasperr)
 >6. [**CF-Predictor**](https://chrome.google.com/webstore/detail/cf-predictor/ocfloejijfhhkkdmheodbaanephbnfhn?hl=en)(Chrome/Firefox/Opera Extension) >>>>>>>>>>:man_technologist:[Wsl_F](https://codeforces.com/profile/Wsl_F)
+>7. [**Synapse0**](http://synapse0.com/) (Only for Bangladesh)
 # 2.	 [AtCoder](https://atcoder.jp/) ![](//sta.codeforces.com/s/84640/images/flags-16/jp.png)
 ##### creator: [Naohiro Takahashi](https://codeforces.com/profile/chokudai) , [Makoto Soejima](https://codeforces.com/profile/rng_58)
 :clipboard:	Tools for atcoder:
