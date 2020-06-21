@@ -23,26 +23,31 @@ tags:
 >5. [**Competitive Companion**](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl)(Chrome Extension) >>>>>>>>>>:man_technologist: [Jasperr](https://codeforces.com/profile/Jasperr)
 >6. [**CF-Predictor**](https://chrome.google.com/webstore/detail/cf-predictor/ocfloejijfhhkkdmheodbaanephbnfhn?hl=en)(Chrome/Firefox/Opera Extension) >>>>>>>>>>:man_technologist:[Wsl_F](https://codeforces.com/profile/Wsl_F)
 >7. [**Synapse0**](http://synapse0.com/) (Only for Bangladesh)
+>8. [**Upsolve**](https://upsolve.me/) >>>>>>>>>>:man_technologist:	[zenolus](https://codeforces.com/profile/zenolus)
 # 2.	 [AtCoder](https://atcoder.jp/) ![](//sta.codeforces.com/s/84640/images/flags-16/jp.png)
 ##### creator: [Naohiro Takahashi](https://codeforces.com/profile/chokudai) , [Makoto Soejima](https://codeforces.com/profile/rng_58)
 :clipboard:	Tools for atcoder:
 >1. [**kenkoooo**](https://kenkoooo.com/atcoder/#/table/) >>>>>>>>>>:man_technologist: [kenkoooo](https://github.com/kenkoooo)
 >2. [**Competitive Companion**](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl)(Chrome Extension)>>>>>>>>>>:man_technologist: [Jasperr](https://codeforces.com/profile/Jasperr)
 >3. [**Official AtCoder**](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ/videos)(Youtube Channel)
+>4. [**Atcoder-scores**](https://atcoder-scores.herokuapp.com) >>>>>>>>>>:man_technologist: [Shrimp](https://twitter.com/rsk0315_h4x)
 # 3. [Uva Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) ![](//sta.codeforces.com/s/84640/images/flags-16/es.png)
 ##### creator: [Miguel Ángel Revilla](https://en.wikipedia.org/wiki/UVa_Online_Judge#:~:text=The%20UVa%20OJ%20was%20created,University%20of%20Valladolid%20in%20Spain.)
 :clipboard:	Tools for uva:
 >1. [**luckycat**](http://luckycat.kshs.kh.edu.tw/)
 >2. [**uHunt**](https://uhunt.onlinejudge.org/) >>>>>>>>>>:man_technologist:[felix_halim](https://codeforces.com/profile/felix_halim?locale=en)
 >3. [**Competitive Companion**](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl)(Chrome Extension)>>>>>>>>>>:man_technologist: [Jasperr](https://codeforces.com/profile/Jasperr)
+>4. [**udebug**](https://www.udebug.com/UVa)
 # 4. [Toph](https://toph.co/) ![](//sta.codeforces.com/s/84640/images/flags-16/bd.png)
 ##### creator : [Furqan Software](https://furqansoftware.com/#team)
 :clipboard:	Tools for toph:
 >1. [**Competitive Companion**](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl)(Chrome Extension)>>>>>>>>>>:man_technologist: [Jasperr](https://codeforces.com/profile/Jasperr)
+>2. [**udebug**](https://www.udebug.com/Toph)
 # 5. [Light OJ](http://lightoj.com/index.php) ![](//sta.codeforces.com/s/84640/images/flags-16/bd.png)
 ##### creator : [Jane Alam Jan](https://www.linkedin.com/in/janealamjan)
 :clipboard:	Tools for lightoj:
 >1. [**Competitive Companion**](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl)(Chrome Extension)>>>>>>>>>>:man_technologist: [Jasperr](https://codeforces.com/profile/Jasperr)
+>2. [**udebug**](https://www.udebug.com/LOJ)
 # 6. [CodeChef](https://www.codechef.com/) ![](//sta.codeforces.com/s/84640/images/flags-16/in.png)
 ##### creator : [Bhavin Turakhia](https://www.linkedin.com/in/bhavin79/?originalSubdomain=uk)
 :clipboard:	Tools for codechef:

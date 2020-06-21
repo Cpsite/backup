@@ -15,12 +15,13 @@ hasCJKLanguage = true
 
 [params]
   background = "darkseagreen"
+  #backgroundImage="https://media.giphy.com/media/ZnKdSM5piRLDW/giphy.gif"
   #backgroundImage = "/me/background.jpg" #here is the background image
   linkColor = "seagreen"
 
   author = "MSA"
   avatar = "/me/f1.jpg"
-  motto = "I Hate Programming. I Hate Programming. I Hate Programming. It works! I Love Programming."
+  motto = "Fake it until you make it"
 
 
 
@@ -36,7 +37,7 @@ hasCJKLanguage = true
 
 email = "sabbir106706@gmail.com"
 #twitter = "g1eny0ung"
-facebook = "sabbir.ahmed.19101046"
+facebook = "sabbir.ahmed.245"
 instagram = "sabbir_ahmed_245"
 linkedin = "sabbirahmed245"
 github = "Md-Sabbir-Ahmed"
